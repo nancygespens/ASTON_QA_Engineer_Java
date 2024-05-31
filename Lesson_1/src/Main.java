@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("1. ");
@@ -32,11 +34,8 @@ public class Main {
         invertBinaryArray(binaryArray);
 
         System.out.println("\n11. ");
-        int[] hundredArray = fillArrayWithNumbers(100);
-        for (int num : hundredArray) {
-            System.out.print(num + " ");
-        }
-        System.out.println();
+        int[] hundredArray = fillArrayWithNumbers();
+        System.out.println(Arrays.toString(hundredArray));
 
         System.out.println("\n12. ");
         int[] sampleArray = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
@@ -159,9 +158,9 @@ public class Main {
     }
 
     // 11
-    public static int[] fillArrayWithNumbers(int length) {
-        int[] array = new int[length];
-        for (int i = 0; i < length; i++) {
+    public static int[] fillArrayWithNumbers() {
+        int[] array = new int[100];
+        for (int i = 0; i < array.length; i++) {
             array[i] = i + 1;
         }
         return array;
