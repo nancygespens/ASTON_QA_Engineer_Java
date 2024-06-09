@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         // Задание 1
@@ -55,25 +58,19 @@ class Employee {
 }
 
 class Park {
-    private Attraction[] attractions;
-    private int count;
+    private List<Attraction> attractions;
 
     public Park() {
-        this.attractions = new Attraction[10]; // допустим, что парк может иметь до 10 аттракционов
-        this.count = 0;
+        this.attractions = new ArrayList<>();
     }
 
     public void addAttraction(String name, String hours, int price) {
-        if (count < attractions.length) {
-            attractions[count++] = new Attraction(name, hours, price);
-        } else {
-            System.out.println("No more space for new attractions");
-        }
+        attractions.add(new Attraction(name, hours, price));
     }
 
     public void printAttractions() {
-        for (int i = 0; i < count; i++) {
-            attractions[i].printInfo();
+        for (Attraction attraction : attractions) {
+            attraction.printInfo();
         }
     }
 
