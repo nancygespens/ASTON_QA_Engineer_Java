@@ -1,0 +1,45 @@
+plugins {
+    id 'java'
+    id "io.qameta.allure" version "2.11.2"
+}
+
+group 'ru.astondevs'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    junitVersion = '5.10.0'
+}
+
+sourceCompatibility = '11'
+targetCompatibility = '11'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+dependencies {
+    testImplementation('org.slf4j:slf4j-simple:2.0.7')
+    testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
+
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.22.0'
+
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
+
+    testImplementation group: 'org.aspectj', name: 'aspectjweaver', version: '1.9.22.1'
+
+    testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '5.4.0'
+
+    implementation group: 'io.qameta.allure', name: 'allure-assertj', version: '2.23.0'
+    implementation group: 'io.qameta.allure', name: 'allure-rest-assured', version: '2.23.0'
+    implementation group: 'io.qameta.allure', name: 'allure-java-commons', version: '2.23.0'
+    testImplementation group: 'io.qameta.allure', name: 'allure-junit5', version: '2.23.0'
+    implementation group: 'io.qameta.allure', name: 'allure-commandline', version: '2.23.0', ext: 'pom'
+}
+
+test {
+    useJUnitPlatform()
+}

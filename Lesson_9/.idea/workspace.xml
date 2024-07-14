@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="518eeea5-ef69-4408-9e11-127fb0155286" name="Changes" comment="lesson 18" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="aqa_course" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_18" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;stasevich741&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nancygespens/ASTON_QA_Engineer_Java.git",
+    "accountId": "7681189b-383e-4fa8-95f0-7f6848e12e38"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gdIsdsQS0pK6r6y9nW78y9j1Ur" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Gradle.AquaProjects [:Main.main()].executor": "Run",
+    "Gradle.AquaProjects [allureServe].executor": "Run",
+    "Gradle.AquaProjects [test].executor": "Run",
+    "Gradle.Build AquaProjects.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.FactorialCalculatorTest.FactorialByOneTest.executor": "Run",
+    "Gradle.FactorialCalculatorTest.executor": "Run",
+    "Gradle.FactorialCalculatorTest.positiveFactorialTest.executor": "Run",
+    "Gradle.FactorialCalculatorTest.throwIllegalArgumentFactorialTest.executor": "Run",
+    "Gradle.MtsCommunicationServicesTest.checkPaymentSystemIconsTest.executor": "Run",
+    "Gradle.MtsCommunicationServicesTest.checkPhoneNumberIsCorrect.executor": "Run",
+    "Gradle.MtsCommunicationServicesTest.checkPhoneNumberIsCorrectTest.executor": "Run",
+    "Gradle.MtsCommunicationServicesTest.checkSumIsCorrectTest.executor": "Run",
+    "Gradle.MtsCommunicationServicesTest.checkTextInBlankFieldsCardTest.executor": "Run",
+    "Gradle.MtsCommunicationServicesTest.executor": "Run",
+    "Gradle.MtsOnlineReplenishmentTest.checkTextInFieldCommunicationServicesTest.executor": "Run",
+    "Gradle.MtsOnlineReplenishmentTest.checkTextInFieldDebtTest.executor": "Run",
+    "Gradle.MtsOnlineReplenishmentTest.checkTextInFieldDeptTest.executor": "Run",
+    "Gradle.MtsOnlineReplenishmentTest.checkTextInFieldHomeInternetTest.executor": "Run",
+    "Gradle.MtsOnlineReplenishmentTest.checkTextInFieldInstallmentPaymentTest.executor": "Run",
+    "Gradle.MtsOnlineReplenishmentTest.executor": "Run",
+    "Gradle.MtsTest.checkElementNameTest.executor": "Run",
+    "Gradle.MtsTest.checkInputFormTest.executor": "Run",
+    "Gradle.MtsTest.checkLink.executor": "Run",
+    "Gradle.MtsTest.checkLogo.executor": "Run",
+    "Gradle.MtsTest.checkTextInFieldDeptTest.executor": "Run",
+    "Gradle.MtsTest.checkTextInFieldHomeInternetTest.executor": "Run",
+    "Gradle.MtsTest.checkTextInFieldInstallmentPaymentTest.executor": "Run",
+    "Gradle.MtsTest.communicationServices.executor": "Run",
+    "Gradle.MtsTest.communicationServicesTest.executor": "Run",
+    "Gradle.MtsTest.communicationServicesTest1.executor": "Run",
+    "Gradle.MtsTest.executor": "Run",
+    "Gradle.MtsTest.t.executor": "Run",
+    "Gradle.MtsTest.test.executor": "Run",
+    "Gradle.PostmanEchoTests.deleteRequestTest.executor": "Run",
+    "Gradle.PostmanEchoTests.executor": "Run",
+    "Gradle.PostmanEchoTests.getMethodTest.executor": "Run",
+    "Gradle.PostmanEchoTests.getTest.executor": "Run",
+    "Gradle.PostmanEchoTests.patchRequestTest.executor": "Run",
+    "Gradle.PostmanEchoTests.postFormDataTest.executor": "Run",
+    "Gradle.PostmanEchoTests.postRawTextTest.executor": "Run",
+    "Gradle.PostmanEchoTests.putRequestTest.executor": "Run",
+    "Gradle.PostmanEchoTests.testPost.executor": "Run",
+    "Gradle.Test1.test12.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Gradle.aqa_course [:Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Lesson__17",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nancygespens/Documents/GitHub/ASTON_QA_Engineer_Java/Lesson_9",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.astondevs.aqa_course.core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.PostmanEchoTests">
+    <configuration name="PostmanEchoTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.astondevs.aqa_course.tests.api.PostmanEchoTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostmanEchoTests.deleteRequestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.astondevs.aqa_course.tests.api.PostmanEchoTests.deleteRequestTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostmanEchoTests.patchRequestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.astondevs.aqa_course.tests.api.PostmanEchoTests.patchRequestTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostmanEchoTests.postFormDataTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.astondevs.aqa_course.tests.api.PostmanEchoTests.postFormDataTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostmanEchoTests.putRequestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.astondevs.aqa_course.tests.api.PostmanEchoTests.putRequestTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PostmanEchoTests" />
+        <item itemvalue="Gradle.PostmanEchoTests.deleteRequestTest" />
+        <item itemvalue="Gradle.PostmanEchoTests.postFormDataTest" />
+        <item itemvalue="Gradle.PostmanEchoTests.putRequestTest" />
+        <item itemvalue="Gradle.PostmanEchoTests.patchRequestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="518eeea5-ef69-4408-9e11-127fb0155286" name="Changes" comment="" />
+      <created>1716021246262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716021246262</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lesson 13">
+      <option name="closed" value="true" />
+      <created>1718976193677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718976193677</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson 13">
+      <option name="closed" value="true" />
+      <created>1718976323256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718976323256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 12 testng">
+      <option name="closed" value="true" />
+      <created>1718979642483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718979642483</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 12 testng">
+      <option name="closed" value="true" />
+      <created>1718980313892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718980313892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 12 testng">
+      <option name="closed" value="true" />
+      <created>1718988199939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718988199940</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson 12 junit 5">
+      <option name="closed" value="true" />
+      <created>1718988422707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718988422707</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 12 junit 5">
+      <option name="closed" value="true" />
+      <created>1719130650962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719130650962</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719652153734</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719652153734</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719660213244</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719660213244</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719666403636</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719666403636</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719668910506</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719668910506</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719677325653</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719677325653</updated>
+    </task>
+    <task id="LOCAL-00013" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719677520918</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719677520918</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719683456452</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719683456452</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719683558891</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719683558891</updated>
+    </task>
+    <task id="LOCAL-00016" summary="lesson 15">
+      <option name="closed" value="true" />
+      <created>1719688458250</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719688458250</updated>
+    </task>
+    <task id="LOCAL-00017" summary="lesson 16">
+      <option name="closed" value="true" />
+      <created>1719832951434</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719832951434</updated>
+    </task>
+    <task id="LOCAL-00018" summary="lesson 16">
+      <option name="closed" value="true" />
+      <created>1719856598741</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719856598741</updated>
+    </task>
+    <task id="LOCAL-00019" summary="lesson 16">
+      <option name="closed" value="true" />
+      <created>1719856623334</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1719856623334</updated>
+    </task>
+    <task id="LOCAL-00020" summary="lesson 16">
+      <option name="closed" value="true" />
+      <created>1719860996107</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1719860996107</updated>
+    </task>
+    <task id="LOCAL-00021" summary="lesson 16">
+      <option name="closed" value="true" />
+      <created>1719861101456</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861101456</updated>
+    </task>
+    <task id="LOCAL-00022" summary="lesson 18">
+      <option name="closed" value="true" />
+      <created>1719995196411</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719995196411</updated>
+    </task>
+    <task id="LOCAL-00023" summary="lesson 18">
+      <option name="closed" value="true" />
+      <created>1719995312374</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719995312374</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 12" />
+    <MESSAGE value="lesson 13" />
+    <MESSAGE value="lesson 12 testng" />
+    <MESSAGE value="lesson 12 junit 5" />
+    <MESSAGE value="lesson 15" />
+    <MESSAGE value="lesson 16" />
+    <MESSAGE value="lesson 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 18" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
